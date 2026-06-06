@@ -1,8 +1,8 @@
 {
     "race_count": 100,
     "buy_count": 33,
-    "cj_count": 33,
-    "sc_count": 100,
+    "cj_count": 18,
+    "sc_count": 33,
     "chk_1": true,
     "chk_2": true,
     "chk_3": true,
@@ -11,7 +11,7 @@
     "next_2": 3,
     "next_3": 4,
     "next_4": 1,
-    "global_loops": 6,
+    "global_loops": 1,
     "skill_dirs": [
         "right",
         "up",

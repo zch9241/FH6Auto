@@ -4010,6 +4010,7 @@ class FH_UltimateBot(ctk.CTk):
                 self.log("找不到升级页面")
                 return False
 
+            time.sleep(0.5)
             self.game_click(pos_sjy)
             time.sleep(0.5)
 
