@@ -18,3 +18,4 @@ debug/
 # 
 .venv/
 uv.lock
+images_bak/
